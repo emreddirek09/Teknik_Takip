@@ -1,0 +1,165 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="default.master.cs" Inherits="TeknikTakip._default" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Teknik Takip</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+
+    <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="css/local.css">
+
+    <script type="text/javascript" src="js/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
+
+    <!-- you need to include the shieldui css and js assets in order for the charts to work -->
+   <%-- <link rel="stylesheet" type="text/css" href="http://www.shieldui.com/shared/components/latest/css/light-bootstrap/all.min.css">--%>
+    <%--<link id="gridcss" rel="stylesheet" type="text/css" href="http://www.shieldui.com/shared/components/latest/css/dark-bootstrap/all.min.css">--%>
+    <link href="css/all.min.css" rel="stylesheet" />
+  <%--  <script type="text/javascript" src="http://www.shieldui.com/shared/components/latest/js/shieldui-all.min.js"></script>--%>
+    <script src="js/shield.js"></script>
+<%--    <script type="text/javascript" src="http://www.prepbootstrap.com/Content/js/gridData.js"></script>--%>
+    <script src="js/bootstrap.min.js"></script> 
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+</head>
+    
+    <body style="">        
+
+    <div id="wrapper">
+          <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <script src="js/jquery-2.1.4.min.js"></script>  
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="anasayfa.aspx">Teknik Takip</a>
+            </div>
+            <div class="collapse navbar-collapse navbar-ex1-collapse">
+
+                <ul id="active" class="nav navbar-nav side-nav">
+                    <%--<li class="selected"><a href="anasayfa.aspx"><i class="fa fa-bullseye"></i> Ana Sayfa</a></li>--%>                      
+                    <li><a href="kullanıcıEkle.aspx"><i class="fa fa-users"></i> Kullanıcılar</a></li>
+                    <li><a href="müsteriEkle.aspx"><i class="fa fa-users"></i> Müşteriler</a></li>
+                     <li><a href="cihazEkle.aspx"><i class="fa fa-comment"></i> Cihazlar</a></li>
+                    <li><a href="arizaliGelenCihazlar.aspx"><i class="fa fa-tags"></i> Arızalı Gelen Cihazlar</a></li>
+                    <li><a href="teslimAlma.aspx"><i class="fa fa-get-pocket"></i> Teslim Alma</a></li>               
+                    <li><a href="teslimEdilenCihazlar.aspx"><i class="fa fa-podcast"></i> Teslim Edilen</a></li>  
+                    <li><a href="stokBilgileri.aspx"><i class="fa fa-tags"></i> Stok Bilgileri</a></li>  
+                    <li><a href="altStokBilgileri.aspx"><i class="fa fa-tags"></i>Alt Stok Bilgileri</a></li>  
+<%--                    <li><a href="stokEKle.aspx"><i class="fa fa-stack-overflow"></i> Stok Kayıt</a></li>  --%>
+                     <li><a href="stokVerilen.aspx"><i class="fa fa-stack-exchange"></i> Stok Teslim Bİlgileri</a></li>  
+                    <li><a href="login.aspx"><i class="fa fa-power-off"></i> Çıkış</a></li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right navbar-user">
+                    
+                    <li class="dropdown user-dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-user"></i> 
+                       <asp:Label ID="kullanici_Label" runat="server" Text="Label"></asp:Label>
+                            <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="login.aspx"><i class="fa fa-power-off"></i> Çıkış</a></li>
+                        </ul>
+                    </li>
+                    
+                    <li>
+                        
+                    </li>
+                </ul>
+            </div>
+        </nav>      
+        <form id="form1" runat="server" >
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+    <!-- /#wrapper --></div>
+
+    <script type="text/javascript">
+        jQuery(function ($) {
+            var performance = [12, 43, 34, 22, 12, 33, 4, 17, 22, 34, 54, 67],
+                visits = [123, 323, 443, 32],
+                traffic = [
+                {
+                    Source: "Direct", Amount: 323, Change: 53, Percent: 23, Target: 600
+                },
+                {
+                    Source: "Refer", Amount: 345, Change: 34, Percent: 45, Target: 567
+                },
+                {
+                    Source: "Social", Amount: 567, Change: 67, Percent: 23, Target: 456
+                },
+                {
+                    Source: "Search", Amount: 234, Change: 23, Percent: 56, Target: 890
+                },
+                {
+                    Source: "Internal", Amount: 111, Change: 78, Percent: 12, Target: 345
+                }];
+
+
+            $("#shieldui-chart1").shieldChart({
+                theme: "dark",
+
+                primaryHeader: {
+                    text: "Visitors"
+                },
+                exportOptions: {
+                    image: false,
+                    print: false
+                },
+                dataSeries: [{
+                    seriesType: "area",
+                    collectionAlias: "Q Data",
+                    data: performance
+                }]
+            });
+
+            $("#shieldui-chart2").shieldChart({
+                theme: "dark",
+                primaryHeader: {
+                    text: "Traffic Per week"
+                },
+                exportOptions: {
+                    image: false,
+                    print: false
+                },
+                dataSeries: [{
+                    seriesType: "pie",
+                    collectionAlias: "traffic",
+                    data: visits
+                }]
+            });
+
+            $("#shieldui-grid1").shieldGrid({
+                dataSource: {
+                    data: traffic
+                },
+                sorting: {
+                    multiple: true
+                },
+                rowHover: false,
+                paging: false,
+                columns: [
+                { field: "Source", width: "170px", title: "Source" },
+                { field: "Amount", title: "Amount" },                
+                { field: "Percent", title: "Percent", format: "{0} %" },
+                { field: "Target", title: "Target" },
+                ]
+            });            
+        });        
+    </script>
+
+
+<div class="sui-loading-panel" style="left: 266px; top: 790px; z-index: 2; display: none;"><span class="sui-loading-image"></span><span class="sui-loading-back"></span></div></body>
+</html>

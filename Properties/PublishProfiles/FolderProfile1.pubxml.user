@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Bu dosya, Web projenizin yayımlama/paket işlemi tarafından kullanılıyor. MSBuild dosyasını düzenleyerek
+bu işlemin davranışını düzenleyebilirsiniz. Bununla ilgili daha fazla bilgi edinmek için https://go.microsoft.com/fwlink/?LinkID=208121 adresini ziyaret edin. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\pc5\Desktop\TaknikTakip_PublisSONN</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="altStokBilgileri.aspx">
+      <publishTime>09/03/2019 15:01:01</publishTime>
+    </File>
+    <File Include="anasayfa.aspx">
+      <publishTime>08/15/2019 16:06:56</publishTime>
+    </File>
+    <File Include="arizaliGelenCihazlar.aspx">
+      <publishTime>09/08/2019 23:18:00</publishTime>
+    </File>
+    <File Include="bin/TeknikTakip.dll">
+      <publishTime>09/11/2019 10:44:02</publishTime>
+    </File>
+    <File Include="bin/TeknikTakip.pdb">
+      <publishTime>09/11/2019 10:44:02</publishTime>
+    </File>
+    <File Include="bootstrap/css/bootstrap.css">
+      <publishTime>08/27/2019 21:01:29</publishTime>
+    </File>
+    <File Include="bootstrap/css/bootstrap.min.css">
+      <publishTime>08/12/2019 13:58:46</publishTime>
+    </File>
+    <File Include="bootstrap/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>08/12/2019 13:58:46</publishTime>
+    </File>
+    <File Include="bootstrap/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>08/12/2019 13:58:46</publishTime>
+    </File>
+    <File Include="bootstrap/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>08/12/2019 13:58:46</publishTime>
+    </File>
+    <File Include="bootstrap/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>08/12/2019 13:58:46</publishTime>
+    </File>
+    <File Include="bootstrap/fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>08/12/2019 13:58:46</publishTime>
+    </File>
+    <File Include="bootstrap/js/bootstrap.js">
+      <publishTime>08/12/2019 13:58:46</publishTime>
+    </File>
+    <File Include="bootstrap/js/bootstrap.min.js">
+      <publishTime>08/12/2019 13:58:46</publishTime>
+    </File>
+    <File Include="cihazEkle.aspx">
+      <publishTime>09/04/2019 09:39:01</publishTime>
+    </File>
+    <File Include="css/all.min.css">
+      <publishTime>09/05/2019 10:32:10</publishTime>
+    </File>
+    <File Include="css/kulEkle.css">
+      <publishTime>08/15/2019 16:28:09</publishTime>
+    </File>
+    <File Include="css/local.css">
+      <publishTime>08/27/2019 20:50:04</publishTime>
+    </File>
+    <File Include="css/main.css">
+      <publishTime>08/09/2019 17:32:46</publishTime>
+    </File>
+    <File Include="css/util.css">
+      <publishTime>08/09/2019 17:32:46</publishTime>
+    </File>
+    <File Include="default.Master">
+      <publishTime>09/05/2019 10:32:35</publishTime>
+    </File>
+    <File Include="font-awesome/css/font-awesome.css">
+      <publishTime>08/12/2019 13:58:46</publishTime>
+    </File>
+    <File Include="font-awesome/css/font-awesome.min.css">
+      <publishTime>08/12/2019 13:58:46</publishTime>
+    </File>
+    <File Include="font-awesome/fonts/fontawesome-webfont.eot">
+      <publishTime>08/12/2019 13:58:46</publishTime>
+    </File>
+    <File Include="font-awesome/fonts/fontawesome-webfont.svg">
+      <publishTime>08/12/2019 13:58:46</publishTime>
+    </File>
+    <File Include="font-awesome/fonts/fontawesome-webfont.ttf">
+      <publishTime>08/12/2019 13:58:46</publishTime>
+    </File>
+    <File Include="font-awesome/fonts/fontawesome-webfont.woff">
+      <publishTime>08/12/2019 13:58:46</publishTime>
+    </File>
+    <File Include="font-awesome/fonts/fontawesome-webfont.woff2">
+      <publishTime>08/12/2019 13:58:46</publishTime>
+    </File>
+    <File Include="font-awesome/fonts/FontAwesome.otf">
+      <publishTime>08/12/2019 13:58:46</publishTime>
+    </File>
+    <File Include="font-awesome/less/bordered-pulled.less">
+      <publishTime>08/12/2019 13:58:46</publishTime>
+    </File>
+    <File Include="font-awesome/less/core.less">
+      <publishTime>08/12/2019 13:58:46</publishTime>
+    </File>
+    <File Include="font-awesome/less/fixed-width.less">
+      <publishTime>08/12/2019 13:58:46</publishTime>
+    </File>
+    <File Include="font-awesome/less/font-awesome.less">
+      <publishTime>08/12/2019 13:58:46</publishTime>
+    </File>
+    <File Include="font-awesome/less/icons.less">
+      <publishTime>08/12/2019 13:58:46</publishTime>
+    </File>
+    <File Include="font-awesome/less/larger.less">
+      <publishTime>08/12/2019 13:58:46</publishTime>
+    </File>
+    <File Include="font-awesome/less/list.less">
+      <publishTime>08/12/2019 13:58:46</publishTime>
+    </File>
+    <File Include="font-awesome/less/mixins.less">
+      <publishTime>08/12/2019 13:58:46</publishTime>
+    </File>
+    <File Include="font-awesome/less/path.less">
+      <publishTime>08/12/2019 13:58:46</publishTime>
+    </File>
+    <File Include="font-awesome/less/rotated-flipped.less">
+      <publishTime>08/12/2019 13:58:46</publishTime>
+    </File>
+    <File Include="font-awesome/less/spinning.less">
+      <publishTime>08/12/2019 13:58:46</publishTime>
+    </File>
+    <File Include="font-awesome/less/stacked.less">
+      <publishTime>08/12/2019 13:58:46</publishTime>
+    </File>
+    <File Include="font-awesome/less/variables.less">
+      <publishTime>08/12/2019 13:58:46</publishTime>
+    </File>
+    <File Include="font-awesome/scss/font-awesome.scss">
+      <publishTime>08/12/2019 13:58:46</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_bordered-pulled.scss">
+      <publishTime>08/12/2019 13:58:46</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_core.scss">
+      <publishTime>08/12/2019 13:58:46</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_fixed-width.scss">
+      <publishTime>08/12/2019 13:58:46</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_icons.scss">
+      <publishTime>08/12/2019 13:58:46</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_larger.scss">
+      <publishTime>08/12/2019 13:58:46</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_list.scss">
+      <publishTime>08/12/2019 13:58:46</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_mixins.scss">
+      <publishTime>08/12/2019 13:58:46</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_path.scss">
+      <publishTime>08/12/2019 13:58:46</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_rotated-flipped.scss">
+      <publishTime>08/12/2019 13:58:46</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_spinning.scss">
+      <publishTime>08/12/2019 13:58:46</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_stacked.scss">
+      <publishTime>08/12/2019 13:58:46</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_variables.scss">
+      <publishTime>08/12/2019 13:58:46</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/css/font-awesome.css">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/fonts/FontAwesome.otf">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/HELP-US-OUT.txt">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/less/animated.less">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/less/bordered-pulled.less">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/less/core.less">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/less/fixed-width.less">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/less/font-awesome.less">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/less/icons.less">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/less/larger.less">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/less/list.less">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/less/mixins.less">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/less/path.less">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/less/rotated-flipped.less">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/less/screen-reader.less">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/less/stacked.less">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/less/variables.less">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/scss/font-awesome.scss">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/scss/_animated.scss">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/scss/_bordered-pulled.scss">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/scss/_core.scss">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/scss/_fixed-width.scss">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/scss/_icons.scss">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/scss/_larger.scss">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/scss/_list.scss">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/scss/_mixins.scss">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/scss/_path.scss">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/scss/_rotated-flipped.scss">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/scss/_screen-reader.scss">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/scss/_stacked.scss">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/scss/_variables.scss">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/iconic/css/material-design-iconic-font.css">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/iconic/css/material-design-iconic-font.min.css">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/iconic/fonts/Material-Design-Iconic-Font.eot">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/iconic/fonts/Material-Design-Iconic-Font.svg">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/iconic/fonts/Material-Design-Iconic-Font.ttf">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/iconic/fonts/Material-Design-Iconic-Font.woff">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/iconic/fonts/Material-Design-Iconic-Font.woff2">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/Linearicons-Free-v1.0.0/icon-font.min.css">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.eot">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.svg">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.ttf">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.woff">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.woff2">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/poppins/Poppins-Black.ttf">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/poppins/Poppins-BlackItalic.ttf">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/poppins/Poppins-Bold.ttf">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/poppins/Poppins-BoldItalic.ttf">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/poppins/Poppins-ExtraBold.ttf">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/poppins/Poppins-ExtraBoldItalic.ttf">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/poppins/Poppins-ExtraLight.ttf">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/poppins/Poppins-ExtraLightItalic.ttf">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/poppins/Poppins-Italic.ttf">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/poppins/Poppins-Light.ttf">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/poppins/Poppins-LightItalic.ttf">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/poppins/Poppins-Medium.ttf">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/poppins/Poppins-MediumItalic.ttf">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/poppins/Poppins-Regular.ttf">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/poppins/Poppins-SemiBold.ttf">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/poppins/Poppins-SemiBoldItalic.ttf">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/poppins/Poppins-Thin.ttf">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/poppins/Poppins-ThinItalic.ttf">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/ubuntu/Ubuntu-Bold.ttf">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/ubuntu/Ubuntu-BoldItalic.ttf">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/ubuntu/Ubuntu-Italic.ttf">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/ubuntu/Ubuntu-Light.ttf">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/ubuntu/Ubuntu-LightItalic.ttf">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/ubuntu/Ubuntu-Medium.ttf">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/ubuntu/Ubuntu-MediumItalic.ttf">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/ubuntu/Ubuntu-Regular.ttf">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="fonts/ubuntu/UFL.txt">
+      <publishTime>08/15/2019 16:18:32</publishTime>
+    </File>
+    <File Include="images/bg-01.jpg">
+      <publishTime>08/15/2019 16:17:19</publishTime>
+    </File>
+    <File Include="images/icons/favicon.ico">
+      <publishTime>08/15/2019 16:17:19</publishTime>
+    </File>
+    <File Include="js/gridData.js">
+      <publishTime>09/04/2019 16:52:49</publishTime>
+    </File>
+    <File Include="js/jquery-1.10.2.min.js">
+      <publishTime>08/12/2019 13:56:24</publishTime>
+    </File>
+    <File Include="js/main.js">
+      <publishTime>08/09/2019 17:32:46</publishTime>
+    </File>
+    <File Include="js/shield.js">
+      <publishTime>09/05/2019 10:25:43</publishTime>
+    </File>
+    <File Include="kullanıcıEkle.aspx">
+      <publishTime>09/03/2019 14:55:22</publishTime>
+    </File>
+    <File Include="login.aspx">
+      <publishTime>08/19/2019 16:46:51</publishTime>
+    </File>
+    <File Include="müsteriEkle.aspx">
+      <publishTime>09/05/2019 12:31:03</publishTime>
+    </File>
+    <File Include="stokBilgileri.aspx">
+      <publishTime>09/04/2019 11:28:51</publishTime>
+    </File>
+    <File Include="stokVerilen.aspx">
+      <publishTime>09/02/2019 12:10:47</publishTime>
+    </File>
+    <File Include="teslimAlma.aspx">
+      <publishTime>09/08/2019 23:26:00</publishTime>
+    </File>
+    <File Include="teslimEdilenCihazlar.aspx">
+      <publishTime>09/03/2019 13:46:59</publishTime>
+    </File>
+    <File Include="vendor/animate/animate.css">
+      <publishTime>08/15/2019 16:17:50</publishTime>
+    </File>
+    <File Include="vendor/animsition/css/animsition.css">
+      <publishTime>08/15/2019 16:17:50</publishTime>
+    </File>
+    <File Include="vendor/animsition/css/animsition.min.css">
+      <publishTime>08/15/2019 16:17:50</publishTime>
+    </File>
+    <File Include="vendor/animsition/js/animsition.js">
+      <publishTime>08/15/2019 16:17:50</publishTime>
+    </File>
+    <File Include="vendor/animsition/js/animsition.min.js">
+      <publishTime>08/15/2019 16:17:50</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/css/bootstrap-grid.css">
+      <publishTime>08/15/2019 16:17:50</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/css/bootstrap-grid.css.map">
+      <publishTime>08/15/2019 16:17:50</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/css/bootstrap-grid.min.css">
+      <publishTime>08/15/2019 16:17:50</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/css/bootstrap-grid.min.css.map">
+      <publishTime>08/15/2019 16:17:50</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/css/bootstrap-reboot.css">
+      <publishTime>08/15/2019 16:17:50</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/css/bootstrap-reboot.css.map">
+      <publishTime>08/15/2019 16:17:50</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/css/bootstrap-reboot.min.css">
+      <publishTime>08/15/2019 16:17:50</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/css/bootstrap-reboot.min.css.map">
+      <publishTime>08/15/2019 16:17:50</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/css/bootstrap.css">
+      <publishTime>08/15/2019 16:17:50</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/css/bootstrap.css.map">
+      <publishTime>08/15/2019 16:17:50</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/css/bootstrap.min.css">
+      <publishTime>08/15/2019 16:17:50</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/css/bootstrap.min.css.map">
+      <publishTime>08/15/2019 16:17:51</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/js/bootstrap.js">
+      <publishTime>08/15/2019 16:17:51</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/js/bootstrap.min.js">
+      <publishTime>08/15/2019 16:17:51</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/js/popper.js">
+      <publishTime>08/15/2019 16:17:51</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/js/popper.min.js">
+      <publishTime>08/15/2019 16:17:51</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/js/tooltip.js">
+      <publishTime>08/15/2019 16:17:51</publishTime>
+    </File>
+    <File Include="vendor/countdowntime/countdowntime.js">
+      <publishTime>08/15/2019 16:17:51</publishTime>
+    </File>
+    <File Include="vendor/css-hamburgers/hamburgers.css">
+      <publishTime>08/15/2019 16:17:51</publishTime>
+    </File>
+    <File Include="vendor/css-hamburgers/hamburgers.min.css">
+      <publishTime>08/15/2019 16:17:51</publishTime>
+    </File>
+    <File Include="vendor/daterangepicker/daterangepicker.css">
+      <publishTime>08/15/2019 16:17:51</publishTime>
+    </File>
+    <File Include="vendor/daterangepicker/daterangepicker.js">
+      <publishTime>08/15/2019 16:17:51</publishTime>
+    </File>
+    <File Include="vendor/daterangepicker/moment.js">
+      <publishTime>08/15/2019 16:17:51</publishTime>
+    </File>
+    <File Include="vendor/daterangepicker/moment.min.js">
+      <publishTime>08/15/2019 16:17:51</publishTime>
+    </File>
+    <File Include="vendor/jquery/jquery-3.2.1.min.js">
+      <publishTime>08/15/2019 16:17:51</publishTime>
+    </File>
+    <File Include="vendor/perfect-scrollbar/perfect-scrollbar.css">
+      <publishTime>08/15/2019 16:17:51</publishTime>
+    </File>
+    <File Include="vendor/perfect-scrollbar/perfect-scrollbar.min.js">
+      <publishTime>08/15/2019 16:17:51</publishTime>
+    </File>
+    <File Include="vendor/select2/select2.css">
+      <publishTime>08/15/2019 16:17:51</publishTime>
+    </File>
+    <File Include="vendor/select2/select2.js">
+      <publishTime>09/08/2019 22:37:36</publishTime>
+    </File>
+    <File Include="vendor/select2/select2.min.css">
+      <publishTime>08/15/2019 16:17:51</publishTime>
+    </File>
+    <File Include="vendor/select2/select2.min.js">
+      <publishTime>08/15/2019 16:17:51</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/08/2019 23:45:42</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

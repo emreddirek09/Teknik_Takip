@@ -1,0 +1,363 @@
+C:\Users\pc5\source\repos\TeknikTakip\bin\TeknikTakip.dll.config
+C:\Users\pc5\source\repos\TeknikTakip\bin\TeknikTakip.dll
+C:\Users\pc5\source\repos\TeknikTakip\bin\TeknikTakip.pdb
+C:\Users\pc5\source\repos\TeknikTakip\obj\Debug\TeknikTakip.csprojAssemblyReference.cache
+C:\Users\pc5\source\repos\TeknikTakip\obj\Debug\TeknikTakip.csproj.CoreCompileInputs.cache
+C:\Users\pc5\source\repos\TeknikTakip\obj\Debug\TeknikTakip.dll
+C:\Users\pc5\source\repos\TeknikTakip\obj\Debug\TeknikTakip.pdb
+C:\Users\pc5\Desktop\Teknik Takip\TeknikTakip\bin\TeknikTakip.dll.config
+C:\Users\pc5\Desktop\Teknik Takip\TeknikTakip\bin\TeknikTakip.dll
+C:\Users\pc5\Desktop\Teknik Takip\TeknikTakip\bin\TeknikTakip.pdb
+C:\Users\pc5\Desktop\Teknik Takip\TeknikTakip\obj\Debug\TeknikTakip.csprojAssemblyReference.cache
+C:\Users\pc5\Desktop\Teknik Takip\TeknikTakip\obj\Debug\TeknikTakip.csproj.CoreCompileInputs.cache
+C:\Users\pc5\Desktop\Teknik Takip\TeknikTakip\obj\Debug\TeknikTakip.dll
+C:\Users\pc5\Desktop\Teknik Takip\TeknikTakip\obj\Debug\TeknikTakip.pdb
+C:\Users\pc5\Desktop\TeknikTakip(Masaüstü)\bin\TeknikTakip.dll.config
+C:\Users\pc5\Desktop\TeknikTakip(Masaüstü)\bin\TeknikTakip.dll
+C:\Users\pc5\Desktop\TeknikTakip(Masaüstü)\bin\TeknikTakip.pdb
+C:\Users\pc5\Desktop\TeknikTakip(Masaüstü)\obj\Debug\TeknikTakip.csproj.CoreCompileInputs.cache
+C:\Users\pc5\Desktop\TeknikTakip(Masaüstü)\obj\Debug\TeknikTakip.dll
+C:\Users\pc5\Desktop\TeknikTakip(Masaüstü)\obj\Debug\TeknikTakip.pdb
+C:\Users\pc5\Desktop\TeknikTakip(Masaüstü)\obj\Debug\TeknikTakip.csprojAssemblyReference.cache
+C:\Users\pc5\Desktop\Teknik_Takip\TeknikTakip\bin\TeknikTakip.dll.config
+C:\Users\pc5\Desktop\Teknik_Takip\TeknikTakip\bin\TeknikTakip.dll
+C:\Users\pc5\Desktop\Teknik_Takip\TeknikTakip\bin\TeknikTakip.pdb
+C:\Users\pc5\Desktop\Teknik_Takip\TeknikTakip\obj\Debug\TeknikTakip.csprojAssemblyReference.cache
+C:\Users\pc5\Desktop\Teknik_Takip\TeknikTakip\obj\Debug\TeknikTakip.csproj.CoreCompileInputs.cache
+C:\Users\pc5\Desktop\Teknik_Takip\TeknikTakip\obj\Debug\TeknikTakip.dll
+C:\Users\pc5\Desktop\Teknik_Takip\TeknikTakip\obj\Debug\TeknikTakip.pdb
+C:\Users\pc5\Desktop\Teknik Takip\Teknik_Takip\TeknikTakip\bin\TeknikTakip.dll.config
+C:\Users\pc5\Desktop\Teknik Takip\Teknik_Takip\TeknikTakip\bin\TeknikTakip.dll
+C:\Users\pc5\Desktop\Teknik Takip\Teknik_Takip\TeknikTakip\bin\TeknikTakip.pdb
+C:\Users\pc5\Desktop\Teknik Takip\Teknik_Takip\TeknikTakip\obj\Debug\TeknikTakip.csprojAssemblyReference.cache
+C:\Users\pc5\Desktop\Teknik Takip\Teknik_Takip\TeknikTakip\obj\Debug\TeknikTakip.csproj.CoreCompileInputs.cache
+C:\Users\pc5\Desktop\Teknik Takip\Teknik_Takip\TeknikTakip\obj\Debug\TeknikTakip.dll
+C:\Users\pc5\Desktop\Teknik Takip\Teknik_Takip\TeknikTakip\obj\Debug\TeknikTakip.pdb
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\TeknikTakip.dll.config
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\TeknikTakip.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\TeknikTakip.pdb
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\obj\Debug\TeknikTakip.csprojAssemblyReference.cache
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\obj\Debug\TeknikTakip.csproj.CoreCompileInputs.cache
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\obj\Debug\TeknikTakip.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\obj\Debug\TeknikTakip.pdb
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\obj\Debug\TeknikTakip.dll.licenses
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\obj\Debug\TeknikTakip.csproj.CopyComplete
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.Dashboard.v19.2.Web.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.Dashboard.v19.2.Web.WebForms.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.Dashboard.v19.2.Core.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.Data.v19.2.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.Web.v19.2.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.DataAccess.v19.2.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.Web.Resources.v19.2.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.Printing.v19.2.Core.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.XtraReports.v19.2.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.PivotGrid.v19.2.Core.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.Charts.v19.2.Core.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.Xpo.v19.2.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.RichEdit.v19.2.Core.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.Pdf.v19.2.Core.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.Utils.v19.2.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.XtraTreeMap.v19.2.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.XtraMap.v19.2.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.XtraCharts.v19.2.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.XtraGauges.v19.2.Core.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.XtraGauges.v19.2.Win.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.Office.v19.2.Core.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.TreeMap.v19.2.Core.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.Sparkline.v19.2.Core.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.Map.v19.2.Core.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.XtraGauges.v19.2.Presets.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.CodeParser.v19.2.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.Images.v19.2.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.XtraEditors.v19.2.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.XtraPrinting.v19.2.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.XtraLayout.v19.2.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.XtraBars.v19.2.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.XtraTreeList.v19.2.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.Dashboard.v19.2.Web.WebForms.xml
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.Dashboard.v19.2.Web.xml
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.Dashboard.v19.2.Core.xml
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.Data.v19.2.xml
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.Web.v19.2.xml
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.DataAccess.v19.2.xml
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.Printing.v19.2.Core.xml
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.XtraReports.v19.2.xml
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.PivotGrid.v19.2.Core.xml
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.Xpo.v19.2.xml
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.RichEdit.v19.2.Core.xml
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.Pdf.v19.2.Core.xml
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.Utils.v19.2.xml
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.XtraTreeMap.v19.2.xml
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.XtraMap.v19.2.xml
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.XtraCharts.v19.2.xml
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.XtraGauges.v19.2.Core.xml
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.XtraGauges.v19.2.Win.xml
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.Office.v19.2.Core.xml
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.TreeMap.v19.2.Core.xml
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.Sparkline.v19.2.Core.xml
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.Map.v19.2.Core.xml
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.XtraGauges.v19.2.Presets.xml
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.XtraEditors.v19.2.xml
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.XtraPrinting.v19.2.xml
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.XtraLayout.v19.2.xml
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.XtraBars.v19.2.xml
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\DevExpress.XtraTreeList.v19.2.xml
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\de\DevExpress.Dashboard.v19.2.Web.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\es\DevExpress.Dashboard.v19.2.Web.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ja\DevExpress.Dashboard.v19.2.Web.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ru\DevExpress.Dashboard.v19.2.Web.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\de\DevExpress.Dashboard.v19.2.Core.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\es\DevExpress.Dashboard.v19.2.Core.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ja\DevExpress.Dashboard.v19.2.Core.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ru\DevExpress.Dashboard.v19.2.Core.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\de\DevExpress.Data.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\es\DevExpress.Data.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ja\DevExpress.Data.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ru\DevExpress.Data.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\de\DevExpress.Web.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\es\DevExpress.Web.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ja\DevExpress.Web.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ru\DevExpress.Web.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\de\DevExpress.DataAccess.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\es\DevExpress.DataAccess.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ja\DevExpress.DataAccess.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ru\DevExpress.DataAccess.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\de\DevExpress.Web.Resources.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\es\DevExpress.Web.Resources.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ja\DevExpress.Web.Resources.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ru\DevExpress.Web.Resources.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\de\DevExpress.Printing.v19.2.Core.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\es\DevExpress.Printing.v19.2.Core.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ja\DevExpress.Printing.v19.2.Core.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ru\DevExpress.Printing.v19.2.Core.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\de\DevExpress.XtraReports.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\es\DevExpress.XtraReports.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ja\DevExpress.XtraReports.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ru\DevExpress.XtraReports.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\de\DevExpress.Xpo.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\es\DevExpress.Xpo.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ja\DevExpress.Xpo.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ru\DevExpress.Xpo.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\de\DevExpress.Pdf.v19.2.Core.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\es\DevExpress.Pdf.v19.2.Core.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\de\DevExpress.Utils.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\es\DevExpress.Utils.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ja\DevExpress.Utils.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ru\DevExpress.Utils.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\de\DevExpress.XtraCharts.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\es\DevExpress.XtraCharts.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ja\DevExpress.XtraCharts.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ru\DevExpress.XtraCharts.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\de\DevExpress.Office.v19.2.Core.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\es\DevExpress.Office.v19.2.Core.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ja\DevExpress.Office.v19.2.Core.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ru\DevExpress.Office.v19.2.Core.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\de\DevExpress.Map.v19.2.Core.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\es\DevExpress.Map.v19.2.Core.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ja\DevExpress.Map.v19.2.Core.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ru\DevExpress.Map.v19.2.Core.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\de\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\es\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ja\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ru\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\de\DevExpress.XtraEditors.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\es\DevExpress.XtraEditors.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ja\DevExpress.XtraEditors.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ru\DevExpress.XtraEditors.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\de\DevExpress.XtraPrinting.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\es\DevExpress.XtraPrinting.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\de\DevExpress.XtraLayout.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\es\DevExpress.XtraLayout.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ja\DevExpress.XtraLayout.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ru\DevExpress.XtraLayout.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\de\DevExpress.XtraBars.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\es\DevExpress.XtraBars.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ja\DevExpress.XtraBars.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ru\DevExpress.XtraBars.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\de\DevExpress.XtraTreeList.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\es\DevExpress.XtraTreeList.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+K:\Emre\2019-2020_ders notları\EGEBARKOD\Teknik Takip\TeknikTakip\bin\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\TeknikTakip.dll.config
+C:\Users\Emre\source\repos\TeknikTakip\bin\TeknikTakip.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\TeknikTakip.pdb
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.Dashboard.v19.2.Core.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.Data.v19.2.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.Web.v19.2.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.DataAccess.v19.2.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.Web.Resources.v19.2.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.Printing.v19.2.Core.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.XtraReports.v19.2.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.PivotGrid.v19.2.Core.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.Charts.v19.2.Core.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.Xpo.v19.2.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.Utils.v19.2.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.XtraTreeMap.v19.2.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.XtraMap.v19.2.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.XtraCharts.v19.2.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.XtraGauges.v19.2.Core.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.XtraGauges.v19.2.Win.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.Office.v19.2.Core.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.TreeMap.v19.2.Core.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.Map.v19.2.Core.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.XtraGauges.v19.2.Presets.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.CodeParser.v19.2.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.Images.v19.2.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.XtraEditors.v19.2.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.XtraLayout.v19.2.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.XtraBars.v19.2.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.Dashboard.v19.2.Web.WebForms.xml
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.Dashboard.v19.2.Web.xml
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.Dashboard.v19.2.Core.xml
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.Data.v19.2.xml
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.Web.v19.2.xml
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.DataAccess.v19.2.xml
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.Printing.v19.2.Core.xml
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.XtraReports.v19.2.xml
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.PivotGrid.v19.2.Core.xml
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.Xpo.v19.2.xml
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.Utils.v19.2.xml
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.XtraTreeMap.v19.2.xml
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.XtraMap.v19.2.xml
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.XtraCharts.v19.2.xml
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.XtraGauges.v19.2.Core.xml
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.XtraGauges.v19.2.Win.xml
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.Office.v19.2.Core.xml
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.TreeMap.v19.2.Core.xml
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.Map.v19.2.Core.xml
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.XtraGauges.v19.2.Presets.xml
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.XtraEditors.v19.2.xml
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.XtraLayout.v19.2.xml
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.XtraBars.v19.2.xml
+C:\Users\Emre\source\repos\TeknikTakip\bin\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\Emre\source\repos\TeknikTakip\bin\de\DevExpress.Dashboard.v19.2.Web.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\es\DevExpress.Dashboard.v19.2.Web.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ja\DevExpress.Dashboard.v19.2.Web.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ru\DevExpress.Dashboard.v19.2.Web.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\de\DevExpress.Dashboard.v19.2.Core.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\es\DevExpress.Dashboard.v19.2.Core.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ja\DevExpress.Dashboard.v19.2.Core.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ru\DevExpress.Dashboard.v19.2.Core.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\de\DevExpress.Web.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\es\DevExpress.Web.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ja\DevExpress.Web.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ru\DevExpress.Web.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\de\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\es\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ja\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ru\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\de\DevExpress.Web.Resources.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\es\DevExpress.Web.Resources.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ja\DevExpress.Web.Resources.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ru\DevExpress.Web.Resources.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\de\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\es\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ja\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ru\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\de\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\es\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ja\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ru\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\de\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\es\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ja\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ru\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\de\DevExpress.Map.v19.2.Core.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\es\DevExpress.Map.v19.2.Core.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ja\DevExpress.Map.v19.2.Core.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ru\DevExpress.Map.v19.2.Core.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\de\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\es\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ja\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ru\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\bin\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Emre\source\repos\TeknikTakip\obj\Debug\TeknikTakip.csprojAssemblyReference.cache
+C:\Users\Emre\source\repos\TeknikTakip\obj\Debug\TeknikTakip.dll.licenses
+C:\Users\Emre\source\repos\TeknikTakip\obj\Debug\TeknikTakip.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\TeknikTakip\obj\Debug\TeknikTakip.csproj.CopyComplete
+C:\Users\Emre\source\repos\TeknikTakip\obj\Debug\TeknikTakip.dll
+C:\Users\Emre\source\repos\TeknikTakip\obj\Debug\TeknikTakip.pdb
